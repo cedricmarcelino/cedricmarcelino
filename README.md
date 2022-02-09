@@ -13,9 +13,9 @@
     I am an aspiring web developer! I am hoping to share my journey of becoming a professional web developer to the GitHUB community by making my own projects and uploading it here on my profile.
     </p>
     <p>
-    🔭 I’m currently working on a chess game project<br>
-    🌱 I’m currently learning front-end/back-end web development in Avion School<br>
-    👯 I’m looking to collaborate and learn about how minecraft mods work and how you can make one by coding<br>
+    🔭 I’m currently working for HCL Technologies as a software engineer<br>
+    🌱 I’m currently learning back-end web development at Avion School<br>
+    👯 I’m looking to collaborate and learn about different web development technologies<br>
     💬 Ask me about anything under the sun<br>
     📫 How to reach me: Hit me up on my <a href="https://www.facebook.com/CJBMarcelino">Facebook</a> account <br>
     💼 Visit my <a href="https://www.upwork.com/freelancers/~010b93fdc7c79ebfe4">Upwork</a> profile!<br>
