@@ -14,7 +14,6 @@
     </p>
     <p>
     🔭 I’m currently working for HCL Technologies as a software engineer<br>
-    🌱 I’m currently learning back-end web development at Avion School<br>
     👯 I’m looking to collaborate and learn about different web development technologies<br>
     💬 Ask me about anything under the sun<br>
     📫 How to reach me: Hit me up on my <a href="https://www.facebook.com/CJBMarcelino">Facebook</a> account <br>
