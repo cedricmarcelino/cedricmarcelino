@@ -10,7 +10,7 @@
 <div align="left">
     <h3>About me</h3>
     <p>
-    I am an aspiring web developer! I am hoping to share my journey of becoming a professional web developer to the GitHUB community by making my own projects and uploading it here on my profile.
+    I am a Senior Software Engineer! I am hoping to share my journey of becoming professional web developer to the GitHUB community by making my own projects and uploading it here on my profile.
     </p>
     <p>
     🔭 I’m currently working for HCL Technologies as a software engineer<br>
